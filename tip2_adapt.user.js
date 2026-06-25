@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         Masque Tip2
 // @namespace    http://tampermonkey.net/
 // @version      2026-06-25
