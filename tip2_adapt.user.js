@@ -1,4 +1,4 @@
-// ==UserScript==
+/ ==UserScript==
 // @name         Masque Tip2
 // @namespace    http://tampermonkey.net/
 // @version      2026-06-22
@@ -21,7 +21,7 @@ function init_css(){
     return `
         <div id="disTestDiv">.</div>
         <style>
-            #disTestDiv{z-index:99999999;position:fixed;top:290px;left:0px;width:50px;height:500px;background-color:black}
+            #disTestDiv{z-index:99999999;position:fixed;top:290px;left:0px;width:50px;height:500px;background-color:#FFFFFF}
         </style>
         `;
 }
