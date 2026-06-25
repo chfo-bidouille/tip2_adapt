@@ -1,9 +1,9 @@
 / ==UserScript==
 // @name         Masque Tip2
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-22
+// @version      2026-06-25
 // @description  try to take over the world!
-// @author       You
+// @author       chfo
 // @match        https://tip2.sbb.ch/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
